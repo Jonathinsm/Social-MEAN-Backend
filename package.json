@@ -1,0 +1,23 @@
+{
+  "name": "mean_social",
+  "version": "1.0.0",
+  "description": "Backend para desarrollar una red social con el Stack MEAN",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "JonathanSM",
+  "license": "MIT",
+  "dependencies": {
+    "angular2-moment": "^1.9.0",
+    "bcrypt-nodejs": "0.0.3",
+    "connect-multiparty": "^2.1.1",
+    "express": "^4.16.3",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.22.2",
+    "mongoose": "^5.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
